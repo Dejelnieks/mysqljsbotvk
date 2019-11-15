@@ -40,8 +40,8 @@ var bot = {
             }
             bot.mysql.connect();
             vk.setOptions({
-                token: 'a5b6846edfe0b1a8d2c9dada0cb2770ad86313548fc39503e969aad97cfde4b5e7493c1b54feb9a07b3f4',
-                pollingGroupId: '188502691',
+                token: '',
+                pollingGroupId: '',
             });
             const {
                 updates
